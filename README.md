@@ -1,1 +1,1 @@
-# trabajoEquipo
+# trabajoEquipoCambios en README desde main
